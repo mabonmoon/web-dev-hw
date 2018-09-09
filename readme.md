@@ -21,7 +21,7 @@ I've always been interested in web design and development, but can't seem to mov
 '''*HTML & CSS* by **Jon Duckett**'''
 
 
-[Course Website] (https://https://media-ed-online.github.io/intro-web-dev/)
+![Course Website] (https://https://media-ed-online.github.io/intro-web-dev/)
 
 
 ![logo](http://bit.ly/2DIVG46)
