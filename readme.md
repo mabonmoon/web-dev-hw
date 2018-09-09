@@ -24,4 +24,4 @@ I've always been interested in web design and development, but can't seem to mov
 [Course Website] (https://https://media-ed-online.github.io/intro-web-dev/)
 
 
-![logo][http://bit.ly/2DIVG46]
+![logo](http://bit.ly/2DIVG46)
