@@ -1,0 +1,13 @@
+1. Briefly describe one way how data travels on the internet.
+
+Data doesn't travel a direct path as we may assume, but is broken up into tiny packets and then reassembled when all packets arrive.
+
+2. What is the relationship between an IP address and the DNS?
+IP address is the address of the individual device accessing the internet (your computer, phone, ect.)
+the DNS acts as a translator for the website name. We can more easily remember domain names than IP addresses, so DNS translate the letters into numbers and navagates us to where we want to go.
+
+3. What is a cookie?
+Number that identifies you so that servers remember you and your browser. It is stored data.
+
+4. List the three basic parts of a URL.
+Protocol, domain name, and path
