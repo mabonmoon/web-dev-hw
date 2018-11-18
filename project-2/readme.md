@@ -1,8 +1,6 @@
 # Kimberly Pierson
 
-B.) Briefly recap your experience learning HTML. What was old, new, interesting, or difficult to learn?
-
-B.) It hurt, to say the least. I forgot about combining my div id and classes, so at first there was a lot of unnecessary redundancy. I am a little worried about the 'cleanliness' of my code. If possible, feedback on that would be wonderful.
+B.) Learning html hurts, to say the least. I forgot about combining my div id and classes, so at first there was a lot of unnecessary redundancy. I am a little worried about the 'cleanliness' of my code. If possible, feedback on that would be wonderful.
 
 C.) I can't wait for CSS!!!! I am all about the styling, and hoping to move away from the retro feel of these first few projects into some clean and spiffy design once I learn how to do it!
 
