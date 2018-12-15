@@ -1,0 +1,86 @@
+
+
+
+body {
+  background-image: url("../images/gold-lady-pierson.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-right: 200px;
+  background-attachment: fixed;
+  background-size: contain;
+
+}
+
+
+.header {  background-color: rgb(255, 215, 0,.5);
+  padding: 20px;
+  text-align: left;
+  border: 1px solid #000000;
+  margin-right: 50%;
+
+}
+
+
+h1 { font-family: liza-display-new, sans-serif;
+font-size: 400%;
+}
+
+h2 {
+  font-family: liza-display-new, sans-serif;
+  font-size: 200%;
+}
+
+p {
+  font-family: century-gothic, sans-serif;
+  font-size: 100%
+}
+
+
+.topnav {
+  overflow: hidden;
+background-color: rgb(255, 215, 0,.5);
+margin-right:50%;
+text-align: left;
+border: 1px solid #000000;
+padding: 30px;
+
+}
+
+.topnav a {
+display: block;
+float: left;
+color: #000000;
+text-align: left;
+font-family: century-gothic, sans-serif;
+padding: 30px;
+text-decoration: none;
+ }
+
+ .topnav a:hover {
+   background-color: #000000;
+   color: white;
+   padding: 30px;
+}
+
+li {
+   display: inline;
+   padding: 1px;
+ }
+
+ul {
+  font-family: century-gothic, sans-serif;
+  font-size: 100%
+
+}
+
+.assignments a {
+  font-size: 100%;
+  padding: 30px;
+  background-color:rgb(255, 215, 0,.5);
+  border-radius: 100%;
+  color: #000000;
+}
+.assignments a:hover {
+  border: 10px solid black;
+  position: relative;
+}
