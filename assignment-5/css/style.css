@@ -1,0 +1,19 @@
+body {
+background-color: #ff7b25;
+text-align: center;
+}
+.container {
+background-color: #6b5b95;
+width: 600px;
+margin: auto;
+padding: 20px;
+border: 50px solid #d64161;
+}
+
+
+h1 {
+  font-family: bd-retrocentric, sans-serif;
+  font-size: 400%;
+  border:5px solid rgb(57,255,20,.5)
+
+}
